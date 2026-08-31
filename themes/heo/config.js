@@ -25,7 +25,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.268898.xyz' },
-    { title: '从地图看历史，从地理读人文', url: 'https://www.268898.xyz' }
+    { title: '以技术夯实能力，以创作记录生活', url: 'https://www.268898.xyz' }
   ],
 
   // 英雄区左右侧组件颠倒位置
