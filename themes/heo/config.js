@@ -73,8 +73,8 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://space.bilibili.com/6723955',
   HEO_INFO_CARD_ICON2: 'fa-brands fa-youtube',
   HEO_INFO_CARD_ICON_ORCID: 'fab fa-orcid',
-  HEO_INFO_CARD_URL4: 'https://www.268898.xyz',
-  HEO_INFO_CARD_TEXT4: '了解更多',
+  HEO_INFO_CARD_URL3: 'https://www.268898.xyz',
+  HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
