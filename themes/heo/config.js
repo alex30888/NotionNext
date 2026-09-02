@@ -68,14 +68,12 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_URL1: 'https://www.xiaohongshu.com/user/profile/62b038a9000000001902ac54',
+  HEO_INFO_CARD_ICON1: 'fa-solid fa-tag',
   HEO_INFO_CARD_URL2: 'https://space.bilibili.com/6723955',
   HEO_INFO_CARD_ICON2: 'fa-brands fa-youtube',
-  HEO_INFO_CARD_URL3: 'https://www.xiaohongshu.com/user/profile/62b038a9000000001902ac54',
-  HEO_INFO_CARD_ICON3: 'fa-solid fa-tag', 
   HEO_INFO_CARD_ICON_ORCID: 'fab fa-orcid',
-   HEO_INFO_CARD_URL4: 'https://www.268898.xyz',
+  HEO_INFO_CARD_URL4: 'https://www.268898.xyz',
   HEO_INFO_CARD_TEXT4: '了解更多',
 
   // 用户技能图标
