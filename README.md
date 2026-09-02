@@ -172,7 +172,7 @@ git remote -v
 
 ## 致谢
 
-感谢 Craig Hart 发起的 Nobelium 项目。
+感谢 Craig Hart 发起的 Nobelium 项目的。
 
 <table><tr align="left">
   <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;" alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
